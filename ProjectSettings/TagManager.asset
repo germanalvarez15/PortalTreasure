@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Reales
+  - tesoro
+  - llavePadres
+  - llaveDorada
+  - llavePlateada
+<<<<<<< HEAD
+  - PlaneFinder
+=======
+>>>>>>> 7eeff62c64c32d79a5f8681037e7e3e245c00deb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - ARKitPlane
+  - 
+  - playercamara
+  - objetovacio
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

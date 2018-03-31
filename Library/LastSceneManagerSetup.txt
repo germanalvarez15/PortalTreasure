@@ -1,0 +1,8 @@
+sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/vuforia.unity
+=======
+- path: Assets/Scenes/CiudadVieja.unity
+>>>>>>> 7eeff62c64c32d79a5f8681037e7e3e245c00deb
+  isLoaded: 1
+  isActive: 1
